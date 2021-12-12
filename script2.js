@@ -1,0 +1,3 @@
+showJavaScriptErrorsInHTML(() => {
+  errerer;
+});

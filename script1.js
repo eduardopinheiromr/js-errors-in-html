@@ -1,0 +1,3 @@
+showJavaScriptErrorsInHTML(() => {
+  const imFine = true;
+});
